@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-:zap: This repo is provided as is to serve as an example repository for others reading this book.
+:zap: This repo is provided as is to serve as an example repository for others reading [this book](https://www.manning.com/books/hugo-in-action).
 
 ## Table of Contents
 
